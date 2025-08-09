@@ -1,8 +1,8 @@
 {
-  "name": "SUBZERO-MD",
-  "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Frank",
+  "name": "ELIAKIM-MD",
+  "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Eliakim",
   "logo": "https://i.postimg.cc/zv76KffW/IMG-20250115-WA0020.jpg",
-  "keywords": ["SUBZERO-MD"],
+  "keywords": ["ELIAKIM-MD"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
